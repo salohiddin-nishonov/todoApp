@@ -4,6 +4,9 @@
     margin: 0 auto;
     margin-top:20px;
 }
+body{
+    background-color: #9E78CF;
+}
 .body2{
     width:350px;
     height:430px;
